@@ -14,10 +14,15 @@ CampusGo is a dynamic platform designed to streamline university club operations
 ## Features
 
 --Secure user sign-up and login for personalized access
+
 -Comprehensive club oversight with streamlined management tools
+
 -Seamless event creation and organization for smooth planning
+
 -Easy student enrollment into clubs and events in just a few clicks
+
 -Integrated Razorpay support for hassle-free payments
+
 -Role-specific access controls ensuring the right permissions for admins and members
 
 ## Tech Stack
